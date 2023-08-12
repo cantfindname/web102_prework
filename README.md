@@ -4,7 +4,7 @@ Submitted by: Adrien Chen
 
 Game Funding Tracker is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 3 hours spent in total
+Time spent: 3.5 hours spent in total
 
 ## Required Features
 
@@ -19,18 +19,14 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://gifyu.com/image/Sc1cY' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with LICEcap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Building the app was in most part a smooth experience, however, it's refreshing to be introduced with two functions unknown to me till today, 
+one is reduce, another is spread. Very excited on all the possible things I could learn related to React and web develeopment from Web102!
 
 ## License
 
